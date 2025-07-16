@@ -7,3 +7,5 @@ paths:
   - "io/jenkins/plugins/tics"
 developers:
   - "tiobe"
+cd:
+  enabled: true
